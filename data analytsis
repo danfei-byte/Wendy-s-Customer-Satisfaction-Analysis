@@ -1,0 +1,2 @@
+mkdir data output
+touch README.md analysis.R results.md
