@@ -15,8 +15,6 @@ Key analysis and insights are outlined as follows:
     - Analyze rating differences between Wendy’s and its strongest competitor (Burger King) to highlight specific areas of competitive advantage or disadvantage.
     - Use quantile analysis to understand the range of differences in customer satisfaction.
     - Conduct a one-sided hypothesis test to determine if Wendy’s mean rating is statistically higher than its competitor’s, supporting data-driven recommendations.
-  
-The sample dataset can be found [here](data_wendys.csv).
 
 The R code utilized to clean, organize, analyze, and visualize the data can be found [here](analysis.R).
 
