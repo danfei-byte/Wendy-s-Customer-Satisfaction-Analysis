@@ -42,7 +42,7 @@ Among competitors, Burger King emerges as Wendy’s closest rival, with a modera
 ![correlation](https://github.com/danfei-byte/Wendy-s-Customer-Satisfaction-Analysis/blob/main/output/Correlation.png?raw=true)
 ![correlation](https://github.com/danfei-byte/Wendy-s-Customer-Satisfaction-Analysis/blob/main/output/Correlation_Brand_Positioning.png?raw=true)
     - **Distinct Customer Perceptions:** Customer ratings for Wendy’s, McDonald’s, Burger King, and Subway do not strongly correlate (all correlation coefficients are below 0.5). This indicates that customers perceive these brands as distinct, with unique strengths and preferences influencing their ratings.
-    - **Closer Competition with Burger King:** The relationship between Wendy’s and Burger King ratings stands out with a moderate positive correlation of 0.4. This suggests that Wendy’s competes more directly with Burger King, as their customer bases or perceptions may overlap more closely, this correlation is statistically significant at the population level.
+    - **Closer Competition with Burger King:** The relationship between Wendy’s and Burger King ratings stands out with a moderate positive correlation of 0.6. This suggests that Wendy’s competes more directly with Burger King, as their customer bases or perceptions may overlap more closely, this correlation is statistically significant at the population level.
 
 - **Wendy’s Position Relative to Burger King**
 
