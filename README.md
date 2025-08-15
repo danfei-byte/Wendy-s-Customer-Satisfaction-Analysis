@@ -22,7 +22,8 @@ Visualizations and tables can be found [here](output).
 
 ## Dataset Desciption
 This dataset contains 1450 observations across 15 variables, capturing demographic information, consumption patterns, patronage of various fast-food brands, and customer ratings. 
-![data description](https://github.com/danfei-byte/Wendy-s-Customer-Satisfaction-Analysis/blob/main/output/Data%20Description.png?raw=true)
+
+<img src="https://github.com/danfei-byte/Wendy-s-Customer-Satisfaction-Analysis/blob/main/output/Data%20Description.png?raw=true" width="600">
 
 ## Executive Summary
 ### Overview of Findings
